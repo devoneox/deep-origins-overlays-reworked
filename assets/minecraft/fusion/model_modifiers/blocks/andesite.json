@@ -1,0 +1,9 @@
+{
+  "targets": [
+    "deepslate",
+    "diorite"
+  ],
+  "append": [
+    "minecraft:block/overlay/andesite"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "stone"
+  ],
+  "append": [
+    "minecraft:block/overlay/deepslate_axis_x"
+  ]
+}

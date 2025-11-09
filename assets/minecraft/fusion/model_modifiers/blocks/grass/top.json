@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "dirt",
+    "andesite",
+    "calcite",
+    "deepslate",
+    "diorite"
+  ],
+  "append": [
+    "minecraft:block/overlay/grass_top"
+  ]
+}
