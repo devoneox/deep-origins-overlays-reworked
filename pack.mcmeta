@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 69.0,
+        "supported_formats": {"min_inclusive": 7,"max_inclusive": 69.0},
+        "description": "§9§lDeep origins overlays§r  §4Beta build§r | §oBy Devoneox"
+    },
+    "fusion": {
+        "min_version": "1.2.0"
+    }
+}
