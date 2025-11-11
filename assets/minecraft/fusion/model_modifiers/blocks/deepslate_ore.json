@@ -1,5 +1,17 @@
 {
   "targets": [
+    "bedrock",
+    "coal_ore",
+    "copper_ore",
+    "deepslate",
+    "diamond_ore",
+    "emerald_ore",
+    "gold_ore",
+    "infested_deepslate",
+    "infested_stone",
+    "iron_ore",
+    "lapis_ore",
+    "redstone_ore",
     "stone"
   ],
   "append": [

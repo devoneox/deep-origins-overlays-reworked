@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "bedrock"
+  ],
+  "append": [
+    "minecraft:block/overlay/stone"
+  ]
+}
