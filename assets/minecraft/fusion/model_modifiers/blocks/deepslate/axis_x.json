@@ -3,6 +3,12 @@
     "bedrock",
     "coal_ore",
     "copper_ore",
+    {
+       "block": "deepslate",
+       "properties": {
+          "axis": "y"
+       }
+    },
     "diamond_ore",
     "emerald_ore",
     "gold_ore",
