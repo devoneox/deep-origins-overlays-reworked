@@ -1,12 +1,12 @@
 {
-    "pack": {
-        "pack_format": 75,
-        "supported_formats": [15, 75],
-        "min_format": 15,
-        "max_format": 75
-        "description": "§9§lDeep origins overlays§r  §4Beta build§r | §oBy Devoneox"
-    },
-    "fusion": {
-        "min_version": "1.2.11"
-    }
+  "pack": {
+    "description": "Makes textures from many blocks connect",
+    "pack_format": 75,
+    "supported_formats": [15, 75],
+    "min_format": 15,
+    "max_format": 75
+  },
+  "fusion": {
+    "min_version": "1.2.11"
+  }
 }

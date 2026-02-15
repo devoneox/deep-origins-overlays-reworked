@@ -1,0 +1,37 @@
+{
+  "targets": [
+    "bedrock",
+    "andesite",
+    "calcite",
+    "coal_ore",
+    "copper_ore",
+    "deepslate",
+    "deepslate_coal_ore",
+    "deepslate_copper_ore",
+    "deepslate_diamond_ore",
+    "deepslate_emerald_ore",
+    "deepslate_gold_ore",
+    "deepslate_iron_ore",
+    "deepslate_lapis_ore",
+    "deepslate_redstone_ore",
+    "diamond_ore",
+    "diorite",
+    "dirt",
+    "dirt_path",
+    "dripstone_block",
+    "emerald_ore",
+    "gold_ore",
+    "granite",
+    "grass_block",
+    "infested_deepslate",
+    "infested_stone",
+    "iron_ore",
+    "lapis_ore",
+    "redstone_ore",
+    "stone",
+    "tuff"
+  ],
+  "append": [
+    "minecraft:block/overlay/podzol_top"
+  ]
+}
