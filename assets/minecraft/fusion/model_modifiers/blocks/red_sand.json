@@ -1,0 +1,42 @@
+{
+  "targets": [
+    "bedrock",
+    "andesite",
+    "calcite",
+    "clay",
+    "coal_ore",
+    "coarse_dirt",
+    "copper_ore",
+    "deepslate",
+    "deepslate_coal_ore",
+    "deepslate_copper_ore",
+    "deepslate_diamond_ore",
+    "deepslate_emerald_ore",
+    "deepslate_gold_ore",
+    "deepslate_iron_ore",
+    "deepslate_lapis_ore",
+    "deepslate_redstone_ore",
+    "diamond_ore",
+    "diorite",
+    "dirt",
+    "dirt_path",
+    "dripstone_block",
+    "emerald_ore",
+    "gold_ore",
+    "granite",
+    "gravel",
+    "infested_deepslate",
+    "infested_stone",
+    "iron_ore",
+    "lapis_ore",
+    "mud",
+    "redstone_ore",
+    "rooted_dirt",
+    "stone",
+    "suspicious_gravel",
+    "tuff"
+  ],
+  "append": [
+    "minecraft:block/overlay/red_sand"
+  ]
+}
