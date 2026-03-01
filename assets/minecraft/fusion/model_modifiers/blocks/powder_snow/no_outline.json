@@ -1,8 +1,0 @@
-{
-  "targets": [
-    "snow_block"
-  ],
-  "append": [
-    "minecraft:block/overlay/powder_snow_no_outline"
-  ]
-}
