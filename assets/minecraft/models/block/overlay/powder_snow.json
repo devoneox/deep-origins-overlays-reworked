@@ -2,7 +2,7 @@
   "loader": "fusion:model",
   "type": "connecting",
   "textures": {
-    "all": "minecraft:block/overlay/sandstone"
+    "all": "minecraft:block/overlay/powder_snow"
   },
   "connections": [
     {
@@ -10,7 +10,7 @@
       "predicates": [
         {
           "type": "match_block",
-          "block": "sandstone"
+          "block": "powder_snow"
         },
         {
           "type": "is_face_visible"

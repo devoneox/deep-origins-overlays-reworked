@@ -2,7 +2,7 @@
   "loader": "fusion:model",
   "type": "connecting",
   "textures": {
-    "all": "minecraft:block/overlay/sandstone"
+    "all": "minecraft:block/overlay/packed_ice"
   },
   "connections": [
     {
@@ -10,7 +10,7 @@
       "predicates": [
         {
           "type": "match_block",
-          "block": "sandstone"
+          "block": "packed_ice"
         },
         {
           "type": "is_face_visible"

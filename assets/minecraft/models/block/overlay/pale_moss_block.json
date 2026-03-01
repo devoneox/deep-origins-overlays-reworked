@@ -2,7 +2,7 @@
   "loader": "fusion:model",
   "type": "connecting",
   "textures": {
-    "all": "minecraft:block/overlay/sandstone"
+    "all": "minecraft:block/overlay/pale_moss_block"
   },
   "connections": [
     {
@@ -10,7 +10,7 @@
       "predicates": [
         {
           "type": "match_block",
-          "block": "sandstone"
+          "block": "pale_moss_block"
         },
         {
           "type": "is_face_visible"
