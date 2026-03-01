@@ -22,10 +22,10 @@ There are **two versions of the pack** :
 📝 Supported Minecraft versions : 1.17 - 1.21.11\
 **This version requires Fusion 1.2.11 or higher to work.** Download Fusion [here](https://modrinth.com/mod/fusion-connected-textures/versions).
 
-- **Deep Origins Overlays Legacy** : The older version of Deep Origins Overlays.
-⚠️ **This version of the pack is discontinued. We recommend you to download Deep Origins Overlays Reworked instead**.
-📝 Supported Minecraft versions : 1.17 - 1.21.9
-This version requires OptiFine or Continuity to work.** Download Continuity [here](https://modrinth.com/mod/continuity/versions). 
+- **Deep Origins Overlays Legacy** : The older version of Deep Origins Overlays.\
+⚠️ **This version of the pack is discontinued. We recommend you to download Deep Origins Overlays Reworked instead**.\
+📝 Supported Minecraft versions : 1.17 - 1.21.9\
+**This version requires OptiFine or Continuity to work.** Continuity is recommended. Download Continuity [here](https://modrinth.com/mod/continuity/versions). 
 
 # How to install
 
