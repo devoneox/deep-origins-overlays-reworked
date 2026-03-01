@@ -1,0 +1,82 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/red_sandstone_bottom",
+    "side": "minecraft:block/connect/red_sandstone",
+    "top": "minecraft:block/red_sandstone_top"
+  },
+  "connections": {
+    "type": "or",
+    "predicates": [
+     {
+        "type": "match_block",
+        "block": "minecraft:red_sandstone"
+      },
+      {
+        "type": "match_state",
+        "block": "minecraft:red_sandstone_slab",
+        "properties": {
+          "type": "double"
+        }
+      },
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["top_left", "top", "top_right"]
+          },
+          {
+            "type": "or",
+            "predicates": [
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_slab",
+                "properties": {
+                  "type": "bottom"
+                }
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_stairs",
+                "properties": {
+                  "half": "bottom"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "and",
+        "predicates": [
+          {
+            "type": "is_direction",
+            "directions": ["bottom_left", "bottom", "bottom_right"]
+          },
+          {
+            "type": "or",
+            "predicates": [
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_slab",
+                "properties": {
+                  "type": "top"
+                }
+              },
+              {
+                "type": "match_state",
+                "block": "minecraft:red_sandstone_stairs",
+                "properties": {
+                  "half": "top"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
