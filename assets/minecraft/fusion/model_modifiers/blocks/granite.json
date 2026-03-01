@@ -1,6 +1,9 @@
 {
   "targets": [
+    "amethyst_block",
     "bedrock",
+    "blue_ice",
+    "budding_amethyst",
     "coal_ore",
     "copper_ore",
     "deepslate",
@@ -15,10 +18,15 @@
     "diamond_ore",
     "emerald_ore",
     "gold_ore",
+    "ice",
     "infested_deepslate",
     "infested_stone",
     "iron_ore",
     "lapis_ore",
+    "packed_ice",
+    "raw_copper_block",
+    "raw_gold_block",
+    "raw_iron_block",
     "redstone_ore",
     "stone"
   ],

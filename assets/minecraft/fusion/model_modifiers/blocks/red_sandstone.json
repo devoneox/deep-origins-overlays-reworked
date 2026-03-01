@@ -1,7 +1,10 @@
 {
   "targets": [
-    "bedrock",
+    "amethyst_block",
     "andesite",
+    "bedrock",
+    "blue_ice",
+    "budding_amethyst",
     "calcite",
     "coal_ore",
     "copper_ore",
@@ -19,10 +22,15 @@
     "emerald_ore",
     "gold_ore",
     "granite",
+    "ice",
     "infested_deepslate",
     "infested_stone",
     "iron_ore",
     "lapis_ore",
+    "packed_ice",
+    "raw_copper_block",
+    "raw_gold_block",
+    "raw_iron_block",
     "redstone_ore",
     "stone",
     "tuff"
