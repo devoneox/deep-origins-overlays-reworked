@@ -8,7 +8,7 @@
 
 <br>
 
-## Deep Origins Overlays : Reworked Beta 1 Release Candidate 1
+## Deep Origins Overlays : Reworked Beta 1 Release Candidate 2
 Including natural block overlays. Minor issues will be fixed before the full release.
 
 ![Beta 1 : Natural Blocks](https://cdn.modrinth.com/data/cached_images/ee2a4de6d623231a0b8ea4ada7d77b73b99d359d_0.webp)
