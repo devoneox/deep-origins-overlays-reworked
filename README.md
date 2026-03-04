@@ -8,9 +8,6 @@
 
 <br>
 
-## Deep Origins Overlays : Reworked Beta 1 Release Candidate 1
-Including natural block overlays. Minor issues will be fixed before the full release.
-
 ![Beta 1 : Natural Blocks](https://cdn.modrinth.com/data/cached_images/ee2a4de6d623231a0b8ea4ada7d77b73b99d359d_0.webp)
 
 # Overview
@@ -106,7 +103,7 @@ I have to make new textures, switch to Fusion, fix existing bugs and add new ove
 2. Most of the overlays were actually borrowed from @kiddkany 's  **Overlay's** resourcepack, and due to changes in copyright, I have to retexture them.
 
 ### Is the current pack discontinued ?
-**Yes.** The old pack won't recieve any further updates and will be marked as 'Legacy'.
+**Yes.** The old pack won't recieve any further updates and will be considered as 'Legacy'.
 
 # More by Devoneox
 Click **[here](https://github.com/devoneox)** to check my profile !

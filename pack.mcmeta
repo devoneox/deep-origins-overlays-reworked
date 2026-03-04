@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "§6Reworked §4[BETA] §8| §9Requires Fusion §b1.2.11+ §8| §oBy Devoneox",
+    "pack_format": 75,
+    "supported_formats": [15, 75],
+    "min_format": 15,
+    "max_format": 75
+  },
+  "fusion": {
+    "min_version": "1.2.11"
+  }
+}
