@@ -1,0 +1,63 @@
+{
+  "targets": [
+    "amethyst_block",
+    "andesite",
+    {
+      "block": "basalt",
+      "properties": {
+        "axis": "x"
+      }
+    },
+    {
+      "block": "basalt",
+      "properties": {
+        "axis": "z"
+      }
+    },
+    "bedrock",
+    "blackstone",
+    "blue_ice",
+    "bone_block",
+    "budding_amethyst",
+    "calcite",
+    "coal_ore",
+    "copper_ore",
+    "crying_obsidian",
+    "deepslate",
+    "deepslate_coal_ore",
+    "deepslate_copper_ore",
+    "deepslate_diamond_ore",
+    "deepslate_emerald_ore",
+    "deepslate_gold_ore",
+    "deepslate_iron_ore",
+    "deepslate_lapis_ore",
+    "deepslate_redstone_ore",
+    "diamond_ore",
+    "dripstone_block",
+    "emerald_ore",
+    "gilded_blackstone",
+    "glowstone",
+    "gold_ore",
+    "granite",
+    "ice",
+    "infested_stone",
+    "infested_deepslate",
+    "iron_ore",
+    "lapis_ore",
+    "magma_block",
+    "netherrack",
+    "obsidian",
+    "packed_ice",
+    "raw_copper_block",
+    "raw_gold_block",
+    "raw_iron_block",
+    "red_sandstone",
+    "redstone_ore",
+    "sandstone",
+    "smooth_basalt",
+    "stone"
+  ],
+  "append": [
+    "minecraft:block/overlay/basalt_axis_y"
+  ]
+}

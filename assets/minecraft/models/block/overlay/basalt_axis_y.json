@@ -1,0 +1,39 @@
+{
+  "loader": "fusion:model",
+  "type": "connecting",
+  "textures": {
+    "top": "minecraft:block/overlay/basalt_top",
+    "side": "minecraft:block/overlay/basalt_side_up"
+  },
+  "connections": [
+    {
+      "type": "and",
+      "predicates": [
+        {
+          "type": "match_state",
+          "block": "basalt",
+          "properties": {
+            "axis": "y"
+          }
+        },
+        {
+          "type": "is_face_visible"
+        }
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "up": { "texture": "#top", "cullface": "up" },
+        "down": { "texture": "#top", "cullface": "down" },
+        "north": { "texture": "#side", "cullface": "north" },
+        "south": { "texture": "#side", "cullface": "south" },
+        "east": { "texture": "#side", "cullface": "east" },
+        "west": { "texture": "#side", "cullface": "west" }
+      }
+    }
+  ]
+}
