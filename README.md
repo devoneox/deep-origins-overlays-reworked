@@ -1,14 +1,11 @@
 ![Deep Origins Overlays](https://cdn.modrinth.com/data/cached_images/7003875f328d0ec6222ab39b7d9094d1cdf25b23.png)
 
-<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/32100924cbfb36ab8e3f042f135e1c0fa22b0793.png" alt="Download on Curseforge" width="249"></a>
-<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/ca55308b7083519ac359a98c3a3fc2b690d25ba9.png" alt="Download on Modrinth" width="249"></a>
-<a href="https://github.com/devoneox/deep-origins-overlays-revamped"><img src="https://cdn.modrinth.com/data/cached_images/adf17d13447fa6be09de12bc4ea5aa41148a3415.png" alt="Source code on Github" width="249"></a>
-<a href="https://discord.gg/Rma6zdg9zS"><img src="https://cdn.modrinth.com/data/cached_images/ac3af34b48e5d57a2d4a55ee544b6314df08b4a8.png" alt="Join my Discord server" width="249"></a>
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/32100924cbfb36ab8e3f042f135e1c0fa22b0793.png" alt="Download on Curseforge" width="200"></a>
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/ca55308b7083519ac359a98c3a3fc2b690d25ba9.png" alt="Download on Modrinth" width="200"></a>
+<a href="https://github.com/devoneox/deep-origins-overlays-revamped"><img src="https://cdn.modrinth.com/data/cached_images/adf17d13447fa6be09de12bc4ea5aa41148a3415.png" alt="Source code on Github" width="200"></a>
+<a href="https://discord.gg/Rma6zdg9zS"><img src="https://cdn.modrinth.com/data/cached_images/ac3af34b48e5d57a2d4a55ee544b6314df08b4a8.png" alt="Join my Discord server" width="200"></a>
 </center>
 <br>
-
-## Deep Origins Overlays switches to fusion !
-**Deep Origins Overlays : Reworked** first public beta release is out, and officially switches to **Fusion**, which has **more features** and is **updated more regularily** than **Optifine** or **Continuity** which makes it a **better alternative** to them. **Support for Optifine and Continuity is from now discontinued** and current versions of this resourcepack will be **considered as "Legacy"**.
 
 ![Beta 1 : Natural Blocks](https://cdn.modrinth.com/data/cached_images/ee2a4de6d623231a0b8ea4ada7d77b73b99d359d_0.webp)
 
@@ -21,10 +18,10 @@ There are **two versions of the resourcepack** :
 📝 Supported Minecraft versions : 1.17 - 1.21.11\
 **This version requires Fusion 1.2.11 or higher to work.** Download Fusion [here](https://modrinth.com/mod/fusion-connected-textures/versions).
 
-- **Deep Origins Overlays Legacy** : The older version of Deep Origins Overlays.
-⚠️ **This version of the pack is discontinued. We recommend you to download Deep Origins Overlays Reworked instead**.
-📝 Supported Minecraft versions : 1.17 - 1.21.9
-This version requires OptiFine or Continuity to work.** Download Continuity [here](https://modrinth.com/mod/continuity/versions). 
+- **Deep Origins Overlays Legacy** : The older version of Deep Origins Overlays.\
+⚠️ **This version of the pack is discontinued. We recommend you to download Deep Origins Overlays Reworked instead**.\
+📝 Supported Minecraft versions : 1.17 - 1.21.9\
+**This version requires OptiFine or Continuity to work.** Download Continuity [here](https://modrinth.com/mod/continuity/versions). 
 
 # How to install
 
