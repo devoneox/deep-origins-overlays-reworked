@@ -1,17 +1,9 @@
-<center>
-  <img src="https://cdn.modrinth.com/data/cached_images/7003875f328d0ec6222ab39b7d9094d1cdf25b23.png" alt="Deep Origins Overlays">
-</center>
-<br>
-<center>
-  <a href="https://curseforge.com/minecraft/texture-packs/deep-origins-overlays">
-    <img src="https://cdn.modrinth.com/data/cached_images/32100924cbfb36ab8e3f042f135e1c0fa22b0793.png" alt="Download on Curseforge">
-  </a>
-  <a href="https://github.com/devoneox/deep-origins-overlays-revamped">
-    <img src="https://cdn.modrinth.com/data/cached_images/adf17d13447fa6be09de12bc4ea5aa41148a3415.png" alt="Source code on Github">
-  </a>
-  <a href="https://discord.gg/Rma6zdg9zS">
-    <img src="https://cdn.modrinth.com/data/cached_images/ac3af34b48e5d57a2d4a55ee544b6314df08b4a8.png" alt="Join my Discord server">
-  </a>
+![Deep Origins Overlays](https://cdn.modrinth.com/data/cached_images/7003875f328d0ec6222ab39b7d9094d1cdf25b23.png)
+
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/32100924cbfb36ab8e3f042f135e1c0fa22b0793.png" alt="Download on Curseforge" width="249"></a>
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/ca55308b7083519ac359a98c3a3fc2b690d25ba9.png" alt="Download on Modrinth" width="249"></a>
+<a href="https://github.com/devoneox/deep-origins-overlays-revamped"><img src="https://cdn.modrinth.com/data/cached_images/adf17d13447fa6be09de12bc4ea5aa41148a3415.png" alt="Source code on Github" width="249"></a>
+<a href="https://discord.gg/Rma6zdg9zS"><img src="https://cdn.modrinth.com/data/cached_images/ac3af34b48e5d57a2d4a55ee544b6314df08b4a8.png" alt="Join my Discord server" width="249"></a>
 </center>
 <br>
 
