@@ -11,7 +11,7 @@ assignees: devoneox
 Please specify your Minecraft version.
 
 **Mod loader**
-Please specify your mod loader
+Please specify your mod loader.
 
 **Fusion version**
 Please specify your Fusion version.
