@@ -40,12 +40,10 @@
     "jungle_leaves",
     "lapis_ore",
     "mangrove_leaves",
-    "moss_block",
     "mud",
     "mycelium",
     "oak_leaves",
     "packed_ice",
-    "pale_moss_block",
     "pale_oak_leaves",
     "podzol",
     "raw_copper_block",
@@ -63,6 +61,6 @@
     "tuff"
   ],
   "append": [
-    "minecraft:block/connect/snow"
+    "minecraft:block/connect/moss_carpet"
   ]
 }
