@@ -82,7 +82,7 @@ There are **two versions of the resourcepack** :
         Snow layers and <br>
         moss carpet overhangs
       </th>
-      <th>Coming soon</th>
+      <th>✅</th>
       <th>
         ✅<br>
         <a href="https://modrinth.com/resourcepack/deep-origins-snow-moss">(Add-on)</a>
