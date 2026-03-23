@@ -7,7 +7,8 @@
 </center>
 <br>
 
-![Beta 1 : Natural Blocks](https://cdn.modrinth.com/data/cached_images/ee2a4de6d623231a0b8ea4ada7d77b73b99d359d_0.webp)
+## Deep Origins Overlays | v2.0 - Beta 1.1
+- Added snow, moss carpet and pale moss carpet overhangs.
 
 # Overview
 
