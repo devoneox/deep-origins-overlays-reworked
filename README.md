@@ -9,6 +9,9 @@
 
 ## Deep Origins Overlays | v2.0 - Beta 1.1
 - Added snow, moss carpet and pale moss carpet overhangs.
+- Removed overlays between powder snow and snow blocks because the blocks already blend seamlessly in vanilla, therefore making it unnecessary.
+- Minified .json and .mcmeta files, resulting in a 30% overall size reduction.
+- Small technical changes.
 
 # Overview
 
