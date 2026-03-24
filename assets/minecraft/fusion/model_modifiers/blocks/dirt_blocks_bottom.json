@@ -41,6 +41,6 @@
     "tuff"
   ],
   "append": [
-    "minecraft:block/overlay/grass_blocks_bottom"
+    "minecraft:block/overlay/dirt_blocks_bottom"
   ]
 }
