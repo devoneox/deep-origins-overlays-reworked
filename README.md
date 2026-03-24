@@ -7,7 +7,11 @@
 </center>
 <br>
 
-![Beta 1 : Natural Blocks](https://cdn.modrinth.com/data/cached_images/ee2a4de6d623231a0b8ea4ada7d77b73b99d359d_0.webp)
+## Deep Origins Overlays | v2.0 - Beta 1.1
+- Added snow, moss carpet and pale moss carpet overhangs.
+- Removed overlays between powder snow and snow blocks because the blocks already blend seamlessly in vanilla, therefore making it unnecessary.
+- Minified .json and .mcmeta files, resulting in a 30% overall size reduction.
+- Small technical changes.
 
 # Overview
 
@@ -81,7 +85,7 @@ There are **two versions of the resourcepack** :
         Snow layers and <br>
         moss carpet overhangs
       </th>
-      <th>Coming soon</th>
+      <th>✅</th>
       <th>
         ✅<br>
         <a href="https://modrinth.com/resourcepack/deep-origins-snow-moss">(Add-on)</a>
