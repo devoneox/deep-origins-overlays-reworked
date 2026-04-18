@@ -39,6 +39,7 @@
     "tuff"
   ],
   "append": [
-    "minecraft:block/overlay/snow_block_powder_snow"
+    "minecraft:block/overlay/snow_block",
+    "minecraft:block/overlay/powder_snow"
   ]
 }
