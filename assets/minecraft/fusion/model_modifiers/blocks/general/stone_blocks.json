@@ -1,0 +1,39 @@
+{
+  "targets": [
+    "ancient_debris",
+    "amethyst_block",
+    "bedrock",
+    "blue_ice",
+    "bone_block",
+    "budding_amethyst",
+    "crying_obsidian",
+    "glowstone",
+    "ice",
+    "obsidian",
+    "packed_ice",
+    "raw_copper_block",
+    "raw_gold_block",
+    "raw_iron_block"
+  ],
+  "append": [
+    "minecraft:block/overlay/andesite",
+    "minecraft:block/overlay/basalt_axis_x",
+    "minecraft:block/overlay/basalt_axis_y",
+    "minecraft:block/overlay/basalt_axis_z",
+    "minecraft:block/overlay/blackstone",
+    "minecraft:block/overlay/calcite",
+    "minecraft:block/overlay/deepslate_axis_x",
+    "minecraft:block/overlay/deepslate_axis_y",
+    "minecraft:block/overlay/deepslate_axis_z",
+    "minecraft:block/overlay/deepslate_ore",
+    "minecraft:block/overlay/diorite",
+    "minecraft:block/overlay/dripstone_block",
+    "minecraft:block/overlay/gilded_blackstone",
+    "minecraft:block/overlay/granite",
+    "minecraft:block/overlay/netherrack",
+    "minecraft:block/overlay/nylium_base",
+    "minecraft:block/overlay/smooth_basalt",
+    "minecraft:block/overlay/stone",
+    "minecraft:block/overlay/tuff"
+  ]
+}
