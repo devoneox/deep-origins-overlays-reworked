@@ -1,9 +1,9 @@
 ![Deep Origins Overlays](https://cdn.modrinth.com/data/cached_images/7003875f328d0ec6222ab39b7d9094d1cdf25b23.png)
 
-<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/available/curseforge_vector.svg" alt="Available on Curseforge"></a>
-<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
-<a href="https://github.com/devoneox/deep-origins-overlays-reworked"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/available/github_vector.svg" alt="Available on Github"></a>
-<a href="https://discord.gg/Rma6zdg9zS"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/social/discord-plural_vector.svg" alt="Chat with us on Discord"></a>
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/cozy/available/curseforge_vector.svg" alt="Available on Curseforge"></a>
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/cozy/available/modrinth_vector.svg"></a>
+<a href="https://github.com/devoneox/deep-origins-overlays-reworked"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/cozy/available/github_vector.svg" alt="Available on Github"></a>
+<a href="https://discord.gg/Rma6zdg9zS"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/cozy/social/discord-plural_vector.svg" alt="Chat with us on Discord"></a>
 
 ## Deep Origins Overlays | v2.0 - Beta 2.0
 - Implemented resourcepack customization with [Respackopts](https://modrinth.com/mod/respackopts).
