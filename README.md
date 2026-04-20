@@ -1,40 +1,22 @@
 ![Deep Origins Overlays](https://cdn.modrinth.com/data/cached_images/7003875f328d0ec6222ab39b7d9094d1cdf25b23.png)
 
-<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/32100924cbfb36ab8e3f042f135e1c0fa22b0793.png" alt="Download on Curseforge" width="200"></a>
-<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://cdn.modrinth.com/data/cached_images/ca55308b7083519ac359a98c3a3fc2b690d25ba9.png" alt="Download on Modrinth" width="200"></a>
-<a href="https://github.com/devoneox/deep-origins-overlays-revamped"><img src="https://cdn.modrinth.com/data/cached_images/adf17d13447fa6be09de12bc4ea5aa41148a3415.png" alt="Source code on Github" width="200"></a>
-<a href="https://discord.gg/Rma6zdg9zS"><img src="https://cdn.modrinth.com/data/cached_images/ac3af34b48e5d57a2d4a55ee544b6314df08b4a8.png" alt="Join my Discord server" width="200"></a>
-</center>
-<br>
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/available/curseforge_vector.svg" alt="Available on Curseforge"></a>
+<a href="https://modrinth.com/resourcepack/deep-origins-overlays"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+<a href="https://github.com/devoneox/deep-origins-overlays-reworked"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/available/github_vector.svg" alt="Available on Github"></a>
+<a href="https://discord.gg/Rma6zdg9zS"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/social/discord-plural_vector.svg" alt="Chat with us on Discord"></a>
 
-## Deep Origins Overlays | v2.0 - Beta 1.1
-- Added snow, moss carpet and pale moss carpet overhangs.
-- Removed overlays between powder snow and snow blocks because the blocks already blend seamlessly in vanilla, therefore making it unnecessary.
-- Minified .json and .mcmeta files, resulting in a 30% overall size reduction.
-- Small technical changes.
+## Deep Origins Overlays | v2.0 - Beta 2.0
+- Implemented resourcepack customization with [Respackopts](https://modrinth.com/mod/respackopts).
+- Added nether block overlays (basalt, netherrack and nether ores, crimson and warped nylium, blackstone and gilded blackstone).
+- Complete technical revamp.
 
 # Overview
 
-**Deep Origins Overlays** adds overlays between blocks to enhance your Minecraft experience while keeping Vanilla aesthetics.
-There are **two versions of the resourcepack** :
+**Deep Origins Overlays : Reworked** adds overlays between blocks to enhance your Minecraft experience while keeping Vanilla aesthetics.
 
-- **Deep Origins Overlays Reworked** : The newer version of Deep Origins Overlays, still in Beta.\
-📝 Supported Minecraft versions : 1.17 - 1.21.11\
-**This version requires Fusion 1.2.11 or higher to work.** Download Fusion [here](https://modrinth.com/mod/fusion-connected-textures/versions).
+<a href="https://modrinth.com/mod/fusion-connected-textures"><img src="https://raw.githubusercontent.com/CelestialAbyss/badges/d452eae438c1c64229c54b7f78edf8f8b9cb533a/fusion/requires/compact_vector.svg" alt="Download Fusion"></a>
 
-- **Deep Origins Overlays Legacy** : The older version of Deep Origins Overlays.\
-⚠️ **This version of the pack is discontinued. We recommend you to download Deep Origins Overlays Reworked instead**.\
-📝 Supported Minecraft versions : 1.17 - 1.21.9\
-**This version requires OptiFine or Continuity to work.** Download Continuity [here](https://modrinth.com/mod/continuity/versions). 
-
-# How to install
-
-1. **Download the required mod** : [Fusion](https://modrinth.com/mod/fusion-connected-textures/versions) or Optifine / [Continuity](https://modrinth.com/mod/continuity/versions) depending on the pack version and your mod loader.
-2. **Download Deep Origins Overlays**. The download file should be a `.zip` compressed file with the following naming scheme : `Deep.origins.overlays§8_v2.0-b1_1.17-1.21.11`.
-3. **Launch Minecraft**. Go to _Options... > Resource Packs... > Open Pack Folder_
-4. A folder should open in the explorer. **Move the downloaded file to the newly opened folder**.
-5. The pack should appear in the _Available_ section. **Click on the pack's icon** to move it into the _Selected_ section. Make sure it is at the top to prevent any conflicts with other resourcepacks.
-6. **Click on _Done**. Your pack is successfully installed !
+**This pack reauires Fusion 1.2.11 or higher to work.**
 
 # Supported features
 
@@ -49,7 +31,7 @@ There are **two versions of the resourcepack** :
       <th>Legacy (v1)</th>
     </tr>
     <tr>
-      <th>Required mod</th>
+      <th>Dependency</th>
       <th>Fusion 1.2.11+</th>
       <th>
         OptiFine HD U H1 +<br>
@@ -91,27 +73,64 @@ There are **two versions of the resourcepack** :
         <a href="https://modrinth.com/resourcepack/deep-origins-snow-moss">(Add-on)</a>
       </th>
     </tr>
+    <tr>
+      <th>
+        Pack customization <br>
+        with Respackopts
+      </th>
+      <th>✅</th>
+      <th>
+        ❌
+      </th>
+    </tr>
   </table>
 </center>
 
-# FAQ
+# How to install
 
-### Why reworking the entire pack ?
-I have to make new textures, switch to Fusion, fix existing bugs and add new overlay features. Making a new pack, even though it takes more time, is kind of easier to do than updating an existing one, as it consists of many different files, and I can lose myself very easily.
+1. **Download [Fusion](https://modrinth.com/mod/fusion-connected-textures/versions)**.
+2. **Download Deep Origins Overlays**. The download file should be a `.zip` compressed file with the following naming scheme : `Deep.origins.overlays§8_v2.0-b1_1.17-1.21.11`.
+3. **Launch Minecraft**. Go to _Options... > Resource Packs... > Open Pack Folder_
+4. A folder should open in the explorer. **Move the downloaded file to the newly opened folder**.
+5. The pack should appear in the _Available_ section. **Click on the pack's icon** to move it into the _Selected_ section. Make sure it is at the top to prevent any conflicts with other resourcepacks.
+6. **Click on _Done_**. Your pack is successfully installed !
 
-### Will it be compatible with Fusion ?
-**Yes**, of course.
+# In-game pack customization with [Respackopts](https://modrinth.com/mod/respackopts)
 
-### Why will the textures change ?
-**Well, there are two main reasons :**
-1. I think retexturing some of the overlays will make the pack much more consistent and faithful to the game's original textures, as some textures look a lot more simple than other ones.
-2. Most of the overlays were actually borrowed from @kiddkany 's  **Overlay's** resourcepack, and due to changes in copyright, I have to retexture them.
+**Download [Respackopts](https://modrinth.com/mod/respackopts)** (v4.0.0+), [Cloth Config API](https://modrinth.com/mod/cloth-config) and [LibJF](https://modrinth.com/mod/libjf). Make sure these 3 mods are installed when you launch the game.
 
-### Is the current pack discontinued ?
-**Yes.** The old pack won't recieve any further updates and will be marked as 'Legacy'.
+![Resourcepack section in Minecraft](https://cdn.modrinth.com/data/cached_images/889f80353bef09247efd8dfaca25ad1fc45e3c3f_0.webp)
 
-# More by Devoneox
-<center>Click <a href="https://modrinth.com/user/Devoneox">here</a> to check my other packs !</center>
+In the _Resourcepacks_ page, you should see **a button next to the pack's icon**. This is to open the pack's options panel.
+
+![Deep Origins Overlays Options](https://cdn.modrinth.com/data/cached_images/4a2668a26d5ec6fc970e9e6e5deb01b5e87c38bd_0.webp)
+
+## Available options
+
+- **Dirt path and farmland overlays**\
+  Default : `True`\
+  Allows blocks to overlay on dirt paths and farmland.
+- **Allow block overlays on themselves**\
+  Default : `False`\
+  Allows blocks to overlay on themselves.\
+  ⚠️**Warning :** This option requires Sodium to work properly.
+- **Connected sandstone**\
+  Default : `False`\
+  Allows sandstone and red sandstone to connect to other blocks.
+
+### Moss and snow overhangs
+
+- **Moss carpet overhangs**\
+  Default : `True`\
+  Allows moss carpets (and pale moss carpets) to overhang on blocks below them.
+
+- **Snow layer overhangs**\
+  Default : `True`\
+  Allows snow layers to overhang on blocks below them.
+
+
+# More from Devoneox
+Click <a href="https://modrinth.com/user/Devoneox">here</a> to check my other packs !
 
 <hr>
 
