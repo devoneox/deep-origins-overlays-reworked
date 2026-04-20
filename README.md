@@ -110,10 +110,12 @@ In the _Resourcepacks_ page, you should see **a button next to the pack's icon**
 - **Dirt path and farmland overlays**\
   Default : `True`\
   Allows blocks to overlay on dirt paths and farmland.
+  
 - **Allow block overlays on themselves**\
   Default : `False`\
   Allows blocks to overlay on themselves.\
   ⚠️**Warning :** This option requires Sodium to work properly.
+  
 - **Connected sandstone**\
   Default : `False`\
   Allows sandstone and red sandstone to connect to other blocks.
