@@ -1,0 +1,8 @@
+{
+  "targets": [
+      "packed_ice"
+  ],
+  "append": [
+    "minecraft:block/overlays/blue_ice"
+  ]
+}
