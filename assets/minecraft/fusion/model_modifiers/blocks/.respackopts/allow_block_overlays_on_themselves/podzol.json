@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "podzol"
+  ],
+  "append": [
+    "minecraft:block/overlay/podzol_on_itself"
+  ]
+}
