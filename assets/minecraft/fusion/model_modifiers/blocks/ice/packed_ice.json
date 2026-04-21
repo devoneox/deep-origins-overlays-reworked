@@ -3,6 +3,6 @@
       "packed_ice"
   ],
   "append": [
-    "minecraft:block/overlays/blue_ice"
+    "minecraft:block/overlay/blue_ice"
   ]
 }
