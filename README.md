@@ -89,7 +89,7 @@
 # How to install
 
 1. **Download [Fusion](https://modrinth.com/mod/fusion-connected-textures/versions)**.
-2. **Download Deep Origins Overlays**. The download file should be a `.zip` compressed file with the following naming scheme : `Deep.origins.overlays§8_v2.0-b1_1.17-1.21.11`.
+2. **Download Deep Origins Overlays**. The download file should be a `.zip` compressed file with the following naming scheme : `Deep.origins.overlays§8_reworked_[pack version]_[supported mc versions]`.
 3. **Launch Minecraft**. Go to _Options... > Resource Packs... > Open Pack Folder_
 4. A folder should open in the explorer. **Move the downloaded file to the newly opened folder**.
 5. The pack should appear in the _Available_ section. **Click on the pack's icon** to move it into the _Selected_ section. Make sure it is at the top to prevent any conflicts with other resourcepacks.
