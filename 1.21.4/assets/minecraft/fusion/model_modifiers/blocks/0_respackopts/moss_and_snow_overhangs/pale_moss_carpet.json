@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "moss_block"
+  ],
+  "append": [
+    "minecraft:block/connect/pale_moss_carpet"
+  ]
+}

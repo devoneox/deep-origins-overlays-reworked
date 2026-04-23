@@ -12,44 +12,44 @@
           "type": "or",
           "predicates": [
             {
-              "type": "match_block",
-              "block": "coal_ore"
+                "type": "match_block",
+                "block": "coal_ore"
             },
             {
-              "type": "match_block",
-              "block": "copper_ore"
+                "type": "match_block",
+                "block": "copper_ore"
             },
             {
-              "type": "match_block",
-              "block": "diamond_ore"
+                "type": "match_block",
+                "block": "diamond_ore"
             },
             {
-              "type": "match_block",
-              "block": "emerald_ore"
+                "type": "match_block",
+                "block": "emerald_ore"
             },
             {
-              "type": "match_block",
-              "block": "gold_ore"
+                "type": "match_block",
+                "block": "gold_ore"
             },
             {
-              "type": "match_block",
-              "block": "iron_ore"
+                "type": "match_block",
+                "block": "infested_stone"
             },
             {
-              "type": "match_block",
-              "block": "lapis_ore"
+                "type": "match_block",
+                "block": "iron_ore"
             },
             {
-              "type": "match_block",
-              "block": "redstone_ore"
+                "type": "match_block",
+                "block": "lapis_ore"
             },
             {
-              "type": "match_block",
-              "block": "stone"
+                "type": "match_block",
+                "block": "redstone_ore"
             },
             {
-              "type": "match_block",
-              "block": "infested_stone"
+                "type": "match_block",
+                "block": "stone"
             }
           ]
         },

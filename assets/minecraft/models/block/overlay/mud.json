@@ -9,8 +9,17 @@
       "type": "and",
       "predicates": [
         {
-          "type": "match_block",
-          "block": "mud"
+          "type": "or",
+          "predicates": [
+            {
+                "type": "match_block",
+                "block": "mud"
+            },
+            {
+                "type": "match_block",
+                "block": "muddy_mangrove_roots"
+            }
+          ]
         },
         {
           "type": "is_face_visible"

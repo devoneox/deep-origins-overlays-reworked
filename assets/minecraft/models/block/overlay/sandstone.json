@@ -3,7 +3,8 @@
   "type": "connecting",
   "textures": {
     "top": "minecraft:block/overlay/sandstone_top",
-    "side": "minecraft:block/overlay/sandstone"
+    "side": "minecraft:block/overlay/sandstone_side_connected",
+    "bottom": "minecraft:block/overlay/sandstone_bottom"
   },
   "connections": [
     {
@@ -25,7 +26,7 @@
       "to": [ 16, 16, 16 ],
       "faces": {
         "up": { "texture": "#top", "cullface": "up" },
-        "down": { "texture": "#side", "cullface": "down" },
+        "down": { "texture": "#bottom", "cullface": "down" },
         "north": { "texture": "#side", "cullface": "north" },
         "south": { "texture": "#side", "cullface": "south" },
         "east": { "texture": "#side", "cullface": "east" },
