@@ -1,0 +1,14 @@
+{
+  "targets": [
+      {
+         "block": "basalt",
+         "properties": {
+            "axis": "y"
+         }
+      } 
+  ],
+  "append": [
+    "minecraft:block/overlay/basalt_axis_x",
+    "minecraft:block/overlay/basalt_axis_z"
+  ]
+}
