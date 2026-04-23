@@ -16,7 +16,7 @@
 
 <a href="https://modrinth.com/mod/fusion-connected-textures"><img src="https://raw.githubusercontent.com/CelestialAbyss/badges/d452eae438c1c64229c54b7f78edf8f8b9cb533a/fusion/requires/compact_vector.svg" alt="Download Fusion"></a>
 
-**This pack reauires Fusion 1.2.11 or higher to work.**
+**This pack requires Fusion 1.2.11 or higher to work.**
 
 # Supported features
 
