@@ -8,7 +8,7 @@
 - Fixed huge FPS drop when using the resourcepack. It was caused by the moss carpet and snow layer overhangs which had to be redone. Thanks to typpyRe whose resourcepack 'Snow Side Texture' helped me to find the solution.
 - Added more overlays (Nether wart block, Warped wart block, End stone, Magma block, Cinnabar, Sulfur and Potent sulfur) as well as full Minecraft 26.2 overlay compatibility (which means blocks that were already added are now able to overlay on new blocks.).
 - Now requires Fusion 1.3.0 or more to work, because the magma block overlays won't work properly in any previous version.
-- Minor pack.mcmeta and resourcepack configuration tweaks.
+- Minor bug fixes and tweaks.
 
 # Overview
 **Deep Origins Overlays : Reworked** adds overlays between blocks to enhance your Minecraft experience while keeping Vanilla aesthetics.
