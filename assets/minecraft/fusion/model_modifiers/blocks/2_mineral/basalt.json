@@ -1,0 +1,10 @@
+{
+  "targets": [
+      "basalt"
+  ],
+  "append": [
+    "minecraft:block/overlay/magma_block",
+    "minecraft:block/overlay/netherrack",
+    "minecraft:block/overlay/nylium_base"
+  ]
+}

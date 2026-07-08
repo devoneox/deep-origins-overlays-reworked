@@ -1,9 +1,0 @@
-{
-  "targets": [
-      "basalt"
-  ],
-  "append": [
-    "minecraft:block/overlay/netherrack",
-    "minecraft:block/overlay/nylium_base"
-  ]
-}

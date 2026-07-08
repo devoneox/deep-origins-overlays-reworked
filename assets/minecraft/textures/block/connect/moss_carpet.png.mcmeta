@@ -1,7 +1,1 @@
-{
-   "fusion": {
-      "type": "connecting",
-      "render_type": "translucent",
-      "layout": "vertical"
-   }
-}
+{"fusion":{"type":"connecting","render_type":"translucent","layout":"vertical"}}
