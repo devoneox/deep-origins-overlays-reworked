@@ -3,10 +3,10 @@
     "description": "§9Requires Fusion §b1.3.2+\n§4[BETA] §8| §oBy Devoneox",
     "pack_format": 88,
     "supported_formats": [
-      18,
+      15,
       88
     ],
-    "min_format": 18,
+    "min_format": 15,
     "max_format": 88
   },
   "overlays": {
