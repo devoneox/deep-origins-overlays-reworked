@@ -11,6 +11,7 @@
   "fusion": {
     "type": "connecting",
     "layout": "overlay",
+    "emissive": true,
     "render_type": "translucent"
   }
 }
