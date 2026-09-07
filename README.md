@@ -23,20 +23,12 @@ Download Respackopts to customize the resourcepack in-game _(optional)_.
 <a href="https://modrinth.com/mod/fusion-connected-textures"><img src="https://raw.githubusercontent.com/CelestialAbyss/badges/d452eae438c1c64229c54b7f78edf8f8b9cb533a/fusion/requires/compact_vector.svg" alt="Download Fusion"></a>
 <a href="https://modrinth.com/mod/respackopts"><img src="https://raw.githubusercontent.com/devoneox/devoneox-images/bf5610243a9d7f9af959c2385c284bc0bb72e138/customize_with_respackopts/compact/compact_vector.svg" alt="Download Respackopts"></a>
 <br>
-<br>
 
 # Supported features
   <table>
     <tr>
-      <th>Build</th>
-      <th>
-        Reworked (v2)
-        [Beta]
-      </th>
-    </tr>
-    <tr>
       <th>Dependency</th>
-      <th>Fusion 1.3.0+</th>
+      <th>Fusion 1.3.8+</th>
     </tr>
     <tr>
       <th>Full block overlays</th>
@@ -52,15 +44,7 @@ Download Respackopts to customize the resourcepack in-game _(optional)_.
     </tr>
     <tr>
       <th>
-        Connected blocks <br>
-        (Sandstone)
-      </th>
-      <th>✅</th>
-    </tr>
-    <tr>
-      <th>
-        Snow layers and <br>
-        moss carpet overhangs
+        Connected sandstone
       </th>
       <th>✅</th>
     </tr>
@@ -73,54 +57,28 @@ Download Respackopts to customize the resourcepack in-game _(optional)_.
     </tr>
   </table>
 <br>
-<br>
 
 # How to install
 1. **Download and install [Fusion](https://modrinth.com/mod/fusion-connected-textures/versions)**.
-2. **Download Deep Origins Overlays**. The download file should be a `.zip` compressed file with the following naming scheme : `Deep Origins Overlays §8v2.0-b3`.
+2. **Download Deep Origins Overlays**. The download file should be a `.zip` compressed file with the following naming scheme : `Deep Origins Overlays §8[version name]`.
 3. **Launch Minecraft**. Go to _Options... > Resource Packs... > Open Pack Folder_
 4. A folder should open in the explorer. **Move the downloaded file to the newly opened folder**.
 5. The pack should appear in the _Available_ section. **Click on the pack's icon** to move it into the _Selected_ section. Make sure it is at the top to prevent any conflicts with other resourcepacks.
 6. **Click on _Done_**. Your pack is successfully installed !
 <br>
-<br>
 
 # In-game pack customization with Respackopts
-**Download [Respackopts](https://modrinth.com/mod/respackopts)** (v4.0.0+), [Cloth Config API](https://modrinth.com/mod/cloth-config) and [LibJF](https://modrinth.com/mod/libjf). Make sure these 3 mods are installed when you launch the game.
-
-![Resourcepack section in Minecraft](https://cdn.modrinth.com/data/cached_images/889f80353bef09247efd8dfaca25ad1fc45e3c3f_0.webp)
-
+**Download [Respackopts](https://modrinth.com/mod/respackopts/versions)** (v4.0.0+), [Cloth Config API](https://modrinth.com/mod/cloth-config/versions) and [LibJF](https://modrinth.com/mod/libjf/versions). Make sure these 3 mods are installed when you launch the game.\
 In the _Resourcepacks_ page, you should see **a button next to the pack's icon**. This is to open the pack's options panel.
-
-![Deep Origins Overlays Options](https://cdn.modrinth.com/data/cached_images/4a2668a26d5ec6fc970e9e6e5deb01b5e87c38bd_0.webp)
 
 ### Available options
 
 - **Dirt path and farmland overlays**\
-  Default : `True`\
-  Allows blocks to overlay on dirt paths and farmland.
-- **Allow block overlays on themselves**\
-  Default : `False`\
-  Allows blocks to overlay on themselves.\
-  ⚠️**Warning :** This option requires Sodium to work properly.
+  Allows blocks to overlay on dirt paths and farmland. `Default` only adds top and bottom faces and `Extended` adds side faces aswell.
 - **Connected sandstone**\
-  Default : `False`\
   Allows sandstone and red sandstone to connect to other blocks.
-
-<details>
-<summary>Moss and snow overhangs</summary>
-
-- **Moss carpet overhangs**\
-  Default : `True`\
-  Allows moss carpets (and pale moss carpets) to overhang on blocks below them.
-
-- **Snow layer overhangs**\
-  Default : `True`\
-  Allows snow layers to overhang on blocks below them.
-
-</details>
-
-<br>
+- **Snow layer overlays**\
+  Adds side overlays for snow layers, which means it connects with all 8 neighbouring blocks instead of only the block under it. Also connects seamlessly with snow blocks and powder snow.
 <br>
 
 # FAQ
@@ -129,12 +87,10 @@ In the _Resourcepacks_ page, you should see **a button next to the pack's icon**
 
 ### Does the pack no longer support OptiFine/Continuity ?
 **Yes.** The old pack won't recieve any further updates.
-
-<br>
 <br>
 
 # More from Devoxxel
-Click <a href="https://github.com/devoneox">here</a> to go to my profile !
+Click <a href="https://github.com/devoxxel">here</a> to go to my profile.
 <br>
 
 <sup>**© 2025 Devoxxel**
